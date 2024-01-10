@@ -53,7 +53,7 @@
 		<PackageReference Include="StackExchange.Redis.Extensions.AspNetCore" Version="9.1.0" />
 		<PackageReference Include="StackExchange.Redis.Extensions.Core" Version="9.1.0" />
 		<PackageReference Include="StackExchange.Redis.Extensions.System.Text.Json" Version="9.1.0" />
-		<PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="7.0.2" />
+		<PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="7.1.2" />
 		<PackageReference Include="System.Linq.Async" Version="6.0.1" />
 	</ItemGroup>
 
