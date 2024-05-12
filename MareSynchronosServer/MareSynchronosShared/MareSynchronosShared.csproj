@@ -46,7 +46,7 @@
 		</PackageReference>
 		<PackageReference Include="Microsoft.Extensions.Caching.StackExchangeRedis" Version="7.0.12" />
 		<PackageReference Include="Microsoft.IdentityModel.Tokens" Version="7.0.2" />
-		<PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="7.0.11" />
+		<PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="7.0.18" />
 		<PackageReference Include="prometheus-net" Version="7.0.0" />
 		<PackageReference Include="prometheus-net.AspNetCore" Version="7.0.0" />
 		<PackageReference Include="StackExchange.Redis" Version="2.6.122" />
